@@ -1,1 +1,2 @@
-console.log("this is a newer version 1")
+console.log("this was version 1")
+console.log("this is version 2")
